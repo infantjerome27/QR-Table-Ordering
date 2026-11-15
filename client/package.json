@@ -1,0 +1,1 @@
+{"dependencies":{"react":"^19.3.1","react-dom":"^19.3.1"},"devDependencies":{"@vitejs/plugin-react":"^6.1.2","vite":"^8.3.5"},"name":"qr-order-client","private":true,"scripts":{"build":"vite build","dev":"vite","preview":"vite preview"},"type":"module","version":"1.0.0"}

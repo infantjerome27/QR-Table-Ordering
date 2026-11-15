@@ -1,0 +1,1 @@
+{"name":"qr-order","private":true,"scripts":{"build":"cd client && npm run build","dev:client":"cd client && npm run dev","dev:server":"cd server && npm start","start":"cd server && npm start"},"version":"1.0.0"}
